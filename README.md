@@ -24,3 +24,26 @@ clean:
 	rm -f $(OBJFILES) $(TARGET) *~ 
 # ScreenShots
 Refer to File screenshots.pdf 
+# Individual contributions
+All by Raymond Guo 
+# Features 
+1. Allocate memory to process using first/best/worst fit
+2. Release process memory
+3. Compact memory space 
+4. Report memory space detail 
+
+# Test Case
+Refer to File testcase.pdf 
+# Use Examples 
+Refer to File screenshots.pdf
+
+# About Developers
+Name: Raymond Guo 
+ID: 160366110
+
+# License 
+Course instructor/professor and TA can use the code
+
+
+
+
