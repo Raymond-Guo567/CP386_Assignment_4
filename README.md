@@ -22,3 +22,5 @@ run: allocation
 clean:
 
 	rm -f $(OBJFILES) $(TARGET) *~ 
+# ScreenShots
+Refer to File screenshots.pdf 
