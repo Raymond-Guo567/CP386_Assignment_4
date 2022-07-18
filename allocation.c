@@ -7,6 +7,8 @@
  Author:  Raymond Guo
  ID:      160366110
  Email:   guox6611@mylaurier.ca
+ GitHub Login ID: Raymond-Guo567
+ URL of GitHub Repository: https://github.com/Raymond-Guo567/CP386_Assignment_4
  Version  2022-07-17
  -------------------------------------
  */
