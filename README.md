@@ -1,6 +1,12 @@
 # Project Title
 CP386 Assignment #4
 # MakeFile
+In Linux, use the following command to compile and link the project:
+
+gcc -std=gnu99 -o allocation allocation.c
+# Or
+use the renamed makefile (extension removed) provided in the assignment:
+
 #Do not edit the contents of this file
 
 CC = gcc
